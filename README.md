@@ -1,1 +1,2 @@
-# SimiMatch-tool
+# SimiMatch
+PhD Implementation
